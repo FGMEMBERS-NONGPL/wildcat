@@ -1,0 +1,3 @@
+[submodule "DavePack"]
+	path = DavePack
+	url = https://github.com/FGMEMBERS-RESTRICTED/DavePack.git
