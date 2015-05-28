@@ -79,3 +79,57 @@
 [submodule "daedalus"]
 	path = daedalus
 	url = https://github.com/FGMEMBERS-RESTRICTED/daedalus.git
+[submodule "Cygnet_II"]
+	path = Cygnet_II
+	url = https://github.com/FGMEMBERS-RESTRICTED/Cygnet_II.git
+[submodule "Learjet2"]
+	path = Learjet2
+	url = https://github.com/FGMEMBERS-RESTRICTED/Learjet2.git
+[submodule "Fusca"]
+	path = Fusca
+	url = https://github.com/FGMEMBERS-RESTRICTED/Fusca.git
+[submodule "F-100"]
+	path = F-100
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-100.git
+[submodule "F-103E"]
+	path = F-103E
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-103E.git
+[submodule "F-105"]
+	path = F-105
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-105.git
+[submodule "F-4D"]
+	path = F-4D
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4D.git
+[submodule "F-4E"]
+	path = F-4E
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4E.git
+[submodule "F-4ETB"]
+	path = F-4ETB
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4ETB.git
+[submodule "F-4F"]
+	path = F-4F
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4F.git
+[submodule "F-4J"]
+	path = F-4J
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4J.git
+[submodule "F-4Jvx4"]
+	path = F-4Jvx4
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4Jvx4.git
+[submodule "F-4J76"]
+	path = F-4J76
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4J76.git
+[submodule "F-4N"]
+	path = F-4N
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4N.git
+[submodule "F-5E"]
+	path = F-5E
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-5E.git
+[submodule "F-7MG"]
+	path = F-7MG
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-7MG.git
+[submodule "FGR2"]
+	path = FGR2
+	url = https://github.com/FGMEMBERS-RESTRICTED/FGR2.git
+[submodule "FJ-3"]
+	path = FJ-3
+	url = https://github.com/FGMEMBERS-RESTRICTED/FJ-3.git
