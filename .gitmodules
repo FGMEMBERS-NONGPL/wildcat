@@ -1,3 +1,6 @@
 [submodule "DavePack"]
 	path = DavePack
 	url = https://github.com/FGMEMBERS-RESTRICTED/DavePack.git
+[submodule "MD-80"]
+	path = MD-80
+	url = https://github.com/FGMEMBERS-RESTRICTED/MD-80.git
