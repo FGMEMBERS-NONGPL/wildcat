@@ -19,3 +19,63 @@
 [submodule "A320neo"]
 	path = A320neo
 	url = https://github.com/FGMEMBERS-RESTRICTED/A320neo.git
+[submodule "A-1H"]
+	path = A-1H
+	url = https://github.com/FGMEMBERS-RESTRICTED/A-1H.git
+[submodule "A-29B"]
+	path = A-29B
+	url = https://github.com/FGMEMBERS-RESTRICTED/A-29B.git
+[submodule "A-3"]
+	path = A-3
+	url = https://github.com/FGMEMBERS-RESTRICTED/A-3.git
+[submodule "A-7E_vx5"]
+	path = A-7E_vx5
+	url = https://github.com/FGMEMBERS-RESTRICTED/A-7E_vx5.git
+[submodule "AC130"]
+	path = AC130
+	url = https://github.com/FGMEMBERS-RESTRICTED/AC130.git
+[submodule "AD-4"]
+	path = AD-4
+	url = https://github.com/FGMEMBERS-RESTRICTED/AD-4.git
+[submodule "AD-6"]
+	path = AD-6
+	url = https://github.com/FGMEMBERS-RESTRICTED/AD-6.git
+[submodule "Aerocar"]
+	path = Aerocar
+	url = https://github.com/FGMEMBERS-RESTRICTED/Aerocar.git
+[submodule "AH-1"]
+	path = AH-1
+	url = https://github.com/FGMEMBERS-RESTRICTED/AH-1.git
+[submodule "AH-1S"]
+	path = AH-1S
+	url = https://github.com/FGMEMBERS-RESTRICTED/AH-1S.git
+[submodule "AS330-Puma"]
+	path = AS330-Puma
+	url = https://github.com/FGMEMBERS-RESTRICTED/AS330-Puma.git
+[submodule "AT-29"]
+	path = AT-29
+	url = https://github.com/FGMEMBERS-RESTRICTED/AT-29.git
+[submodule "aw139"]
+	path = aw139
+	url = https://github.com/FGMEMBERS-RESTRICTED/aw139.git
+[submodule "bk117"]
+	path = bk117
+	url = https://github.com/FGMEMBERS-RESTRICTED/bk117.git
+[submodule "F-4EJ"]
+	path = F-4EJ
+	url = https://github.com/FGMEMBERS-RESTRICTED/F-4EJ.git
+[submodule "FA-18"]
+	path = FA-18
+	url = https://github.com/FGMEMBERS-RESTRICTED/FA-18.git
+[submodule "shuttle6"]
+	path = shuttle6
+	url = https://github.com/FGMEMBERS-RESTRICTED/shuttle6.git
+[submodule "danube"]
+	path = danube
+	url = https://github.com/FGMEMBERS-RESTRICTED/danube.git
+[submodule "shuttle9"]
+	path = shuttle9
+	url = https://github.com/FGMEMBERS-RESTRICTED/shuttle9.git
+[submodule "daedalus"]
+	path = daedalus
+	url = https://github.com/FGMEMBERS-RESTRICTED/daedalus.git
