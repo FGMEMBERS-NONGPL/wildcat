@@ -7,18 +7,6 @@
 [submodule "RA-5"]
 	path = RA-5
 	url = https://github.com/FGMEMBERS-RESTRICTED/RA-5.git
-[submodule "787-8"]
-	path = 787-8
-	url = https://github.com/FGMEMBERS-RESTRICTED/787-8.git
-[submodule "A330-300"]
-	path = A330-300
-	url = https://github.com/FGMEMBERS-RESTRICTED/A330-300.git
-[submodule "A330-200"]
-	path = A330-200
-	url = https://github.com/FGMEMBERS-RESTRICTED/A330-200.git
-[submodule "A320neo"]
-	path = A320neo
-	url = https://github.com/FGMEMBERS-RESTRICTED/A320neo.git
 [submodule "A-1H"]
 	path = A-1H
 	url = https://github.com/FGMEMBERS-RESTRICTED/A-1H.git
