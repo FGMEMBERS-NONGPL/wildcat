@@ -121,3 +121,66 @@
 [submodule "FJ-3"]
 	path = FJ-3
 	url = https://github.com/FGMEMBERS-RESTRICTED/FJ-3.git
+[submodule "MD-81"]
+	path = MD-81
+	url = https://github.com/FGMEMBERS-RESTRICTED/MD-81.git
+[submodule "Goose"]
+	path = Goose
+	url = https://github.com/FGMEMBERS-RESTRICTED/Goose.git
+[submodule "Thornycroft_AA"]
+	path = Thornycroft_AA
+	url = https://github.com/FGMEMBERS-RESTRICTED/Thornycroft_AA.git
+[submodule "Morane_Saulnier_N"]
+	path = Morane_Saulnier_N
+	url = https://github.com/FGMEMBERS-RESTRICTED/Morane-Saulnier_N.git
+[submodule "il-96-400"]
+	path = il-96-400
+	url = https://github.com/FGMEMBERS-RESTRICTED/il-96-400.git
+[submodule "Hawk"]
+	path = Hawk
+	url = https://github.com/FGMEMBERS-RESTRICTED/Hawk.git
+[submodule "Kfir"]
+	path = Kfir
+	url = https://github.com/FGMEMBERS-RESTRICTED/Kfir.git
+[submodule "Lamborghini_Murcielago"]
+	path = Lamborghini_Murcielago
+	url = https://github.com/FGMEMBERS-RESTRICTED/Lamborghini_Murcielago.git
+[submodule "m113"]
+	path = m113
+	url = https://github.com/FGMEMBERS-RESTRICTED/m113.git
+[submodule "MB326"]
+	path = MB326
+	url = https://github.com/FGMEMBERS-RESTRICTED/MB326.git
+[submodule "MiG-21"]
+	path = MiG-21
+	url = https://github.com/FGMEMBERS-RESTRICTED/MiG-21.git
+[submodule "Mirage-IIIC"]
+	path = Mirage-IIIC
+	url = https://github.com/FGMEMBERS-RESTRICTED/Mirage-IIIC.git
+[submodule "P-47D"]
+	path = P-47D
+	url = https://github.com/FGMEMBERS-RESTRICTED/P-47D.git
+[submodule "panzer"]
+	path = panzer
+	url = https://github.com/FGMEMBERS-RESTRICTED/panzer.git
+[submodule "pc7"]
+	path = pc7
+	url = https://github.com/FGMEMBERS-RESTRICTED/pc7.git
+[submodule "PreciousMetal"]
+	path = PreciousMetal
+	url = https://github.com/FGMEMBERS-RESTRICTED/PreciousMetal.git
+[submodule "SeaFury"]
+	path = SeaFury
+	url = https://github.com/FGMEMBERS-RESTRICTED/SeaFury.git
+[submodule "DC-9-32"]
+	path = DC-9-32
+	url = https://github.com/FGMEMBERS-RESTRICTED/DC-9-32.git
+[submodule "hp-hampden-mki"]
+	path = hp-hampden-mki
+	url = https://github.com/FGMEMBERS-RESTRICTED/hp-hampden-mki.git
+[submodule "percival-petrel"]
+	path = percival-petrel
+	url = https://github.com/FGMEMBERS-RESTRICTED/percival-petrel.git
+[submodule "Vickers_Nene_Viking"]
+	path = Vickers_Nene_Viking
+	url = https://github.com/FGMEMBERS-RESTRICTED/Vickers_Nene_Viking.git
