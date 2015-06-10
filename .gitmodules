@@ -184,3 +184,57 @@
 [submodule "Vickers_Nene_Viking"]
 	path = Vickers_Nene_Viking
 	url = https://github.com/FGMEMBERS-RESTRICTED/Vickers_Nene_Viking.git
+[submodule "Yak-55M"]
+	path = Yak-55M
+	url = git@github.com:FGMEMBERS-RESTRICTED/Yak-55M.git
+[submodule "S-3B"]
+	path = S-3B
+	url = git@github.com:FGMEMBERS-RESTRICTED/S-3B.git
+[submodule "Su-26M"]
+	path = Su-26M
+	url = git@github.com:FGMEMBERS-RESTRICTED/Su-26M.git
+[submodule "T-2"]
+	path = T-2
+	url = git@github.com:FGMEMBERS-RESTRICTED/T-2.git
+[submodule "Sopwith_Tabloid"]
+	path = Sopwith_Tabloid
+	url = git@github.com:FGMEMBERS-RESTRICTED/Sopwith_Tabloid.git
+[submodule "MF-11-shorthorn"]
+	path = MF-11-shorthorn
+	url = git@github.com:FGMEMBERS-RESTRICTED/MF-11-shorthorn.git
+[submodule "P-80"]
+	path = P-80
+	url = git@github.com:FGMEMBERS-RESTRICTED/P-80.git
+[submodule "Blackburn-Buccaneer"]
+	path = Blackburn-Buccaneer
+	url = git@github.com:FGMEMBERS-RESTRICTED/Blackburn-Buccaneer.git
+[submodule "KI2000"]
+	path = KI2000
+	url = git@github.com:FGMEMBERS-RESTRICTED/KI2000.git
+[submodule "Short-Belfast"]
+	path = Short-Belfast
+	url = git@github.com:FGMEMBERS-RESTRICTED/Short-Belfast.git
+[submodule "SSJ"]
+	path = SSJ
+	url = git@github.com:FGMEMBERS-RESTRICTED/SSJ.git
+[submodule "TU-214"]
+	path = TU-214
+	url = git@github.com:FGMEMBERS-RESTRICTED/TU-214.git
+[submodule "TF-104G"]
+	path = TF-104G
+	url = git@github.com:FGMEMBERS-RESTRICTED/TF-104G.git
+[submodule "tucano"]
+	path = tucano
+	url = git@github.com:FGMEMBERS-RESTRICTED/tucano.git
+[submodule "Typhoon"]
+	path = Typhoon
+	url = git@github.com:FGMEMBERS-RESTRICTED/Typhoon.git
+[submodule "A-7E"]
+	path = A-7E
+	url = git@github.com:FGMEMBERS-RESTRICTED/A-7E.git
+[submodule "wildcat"]
+	path = wildcat
+	url = git@github.com:FGMEMBERS-RESTRICTED/wildcat.git
+[submodule "WG13_Lynx"]
+	path = WG13_Lynx
+	url = git@github.com:FGMEMBERS-RESTRICTED/WG13_Lynx.git
