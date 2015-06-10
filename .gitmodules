@@ -238,3 +238,6 @@
 [submodule "WG13_Lynx"]
 	path = WG13_Lynx
 	url = git@github.com:FGMEMBERS-RESTRICTED/WG13_Lynx.git
+[submodule "piper-archer"]
+	path = piper-archer
+	url = git@github.com:FGMEMBERS-RESTRICTED/piper-archer.git
