@@ -241,3 +241,6 @@
 [submodule "piper-archer"]
 	path = piper-archer
 	url = git@github.com:FGMEMBERS-RESTRICTED/piper-archer.git
+[submodule "F-100D"]
+	path = F-100D
+	url = git@github.com:FGMEMBERS-RESTRICTED/F-100D.git
