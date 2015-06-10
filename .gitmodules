@@ -154,9 +154,6 @@
 [submodule "MiG-21"]
 	path = MiG-21
 	url = https://github.com/FGMEMBERS-RESTRICTED/MiG-21.git
-[submodule "Mirage-IIIC"]
-	path = Mirage-IIIC
-	url = https://github.com/FGMEMBERS-RESTRICTED/Mirage-IIIC.git
 [submodule "P-47D"]
 	path = P-47D
 	url = https://github.com/FGMEMBERS-RESTRICTED/P-47D.git
@@ -244,3 +241,6 @@
 [submodule "F-100D"]
 	path = F-100D
 	url = git@github.com:FGMEMBERS-RESTRICTED/F-100D.git
+[submodule "Mirage-IIICJ"]
+	path = Mirage-IIICJ
+	url = git@github.com:FGMEMBERS-RESTRICTED/Mirage-IIICJ.git
