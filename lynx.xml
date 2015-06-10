@@ -1,0 +1,272 @@
+<!--	
+AgustaWestland AW159 Wildcat
+
+
+Weights
+Max Gross Weight 6000 kg 13227 lb 
+
+
+Engine Ratings (2 x turbo shaft engines)
+Take-off power (5 min) 2 x 1014 kW 2 x 1361 shp 
+Max continuous power 2 x 955 kW 2 x 1280 shp 
+OEI 2 minute rating 1 x 1108 kW 1 x 1484 shp 
+OEI continuous rating 1 x 1014 kW 1 x 1361 shp 
+
+
+Transmission Ratings
+Max continuous power 1604 kW 2151 shp 
+Intercontingency OEI 938 kW 1258 shp 
+Max contingency OEI 1016 kW 1363 shp 
+
+
+Fuel Capacity
+Standard internal fuel tanks* 997 l 263 USgal 
+
+
+Seating
+Cockpit / cabin 2 / 6 crashworthy (9 non-crashworthy) 
+
+
+External Dimensions
+Length overall 15.24 m  50 ft 00 in 
+Length overall (MRH folded) 13.49 m 44 ft 03 in 
+Overall height 3.73 m  12 ft 03 in 
+Rotor diameter 12.80 m  42 ft 00 in 
+
+
+Performance (ISA, MGW)
+VNE (SL) 277 kph 150 kt 
+Cruise speed (SL - MCP) 264 kph 143 kt 
+Rate of climb (SL - MCP) 10.1 m/s 1983 ft/min 
+Hovering IGE 2347 m 7700 ft 
+Hovering OGE 1487 m 4880 ft 
+Service Ceiling (density altitude) 4570 m 15000 ft 
+OEI max service ceiling 1866 m 6125 ft 
+Maximum range** 555 km 300 nm 
+Max endurance** 3 hours 
+
+  -->
+
+<airplane mass="7990">
+
+<approach speed="47" aoa="12">
+  <control-setting axis="/controls/engines/engine[0]/throttle" value="0.3"/>
+</approach>
+
+<cruise speed="143" alt="0">
+  <control-setting axis="/controls/engines/engine[0]/throttle" value="1.0"/>
+</cruise>
+
+<rotor name="main" x="0.0" y="0" z="1.47" nx="0" ny="0" nz="1.0" fx="1" fy="0" fz="0" ccw="1"
+maxcollective="17" mincollective="-4"
+mincyclicele="-17" maxcyclicele="16"
+mincyclicail="-12" maxcyclicail="12"
+diameter="12.8" numblades="4" weightperblade="87" relbladecenter="0.62"
+dynamic="0.85" rpm="305" rellenflaphinge="0.22" delta3="0.07"
+delta=".28"
+pitch-a="10"
+pitch-b="15"
+flapmin="-15"
+flapmax="15"
+flap0="-5"
+phi0="0"
+flap0factor="0"
+notorque="0"
+dragfactor="0.25"
+translift-ve="20"
+translift-maxfactor="1.2"
+ground-effect-constant="0.1"
+twist="-8"
+taper="1"
+chord="0.39"
+number-of-segments="8"
+number-of-parts="8"
+rel-len-where-incidence-is-measured="0.7"
+rel-len-blade-start="0.25"
+tiltcenterx="0"
+tiltcentery="0"
+tiltcenterz="1.47"
+mintiltyaw="0"
+mintiltpitch="-5"
+mintiltroll="0"
+maxtiltyaw="0"
+maxtiltpitch="0"
+maxtiltroll="0"
+airfoil-lift-coefficient="5.1"
+airfoil-drag-coefficient0="0.015"
+airfoil-drag-coefficient1="0.25"
+incidence-stall-zero-speed="15"
+incidence-stall-half-sonic-speed="14.5"
+lift-factor-stall="0.28"
+stall-change-over="5.5"
+drag-factor-stall="2.0"
+cyclic-factor="0.85"
+rotor-correction-factor="0.9"
+downwashfactor="0.4"
+>
+
+
+<control-input axis="/controls/flight/aileron-trim" control="CYCLICAIL" split="true"/>
+<control-input axis="/controls/flight/aileron" control="CYCLICAIL"
+               src0="-1.0" src1="1.0"
+               dst0="-1.0" dst1="1.0"/>
+<control-input axis="/controls/flight/elevator-trim" control="CYCLICELE" split="true"/>
+<control-input axis="/controls/flight/elevator" control="CYCLICELE"
+               src0="-1.0" src1="1.0"
+               dst0="-1.0" dst1="1.0"/>
+<control-input axis="/controls/engines/engine[0]/throttle" control="COLLECTIVE"
+               src0="0.0" src1="1.0"
+               dst0="1.0" dst1="-1.0"/>
+<control-input axis="/controls/flight/elevator" control="TILTPITCH"
+               src0="-0.6" src1="0.6"
+                 dst0="0" dst1="-1"/>
+</rotor>
+
+
+<rotor name="tail" x="-7.64" y="0.38" z="1.37" nx="0.0" ny="-1" nz="0.0" fx="1" fy="0" fz="0" ccw="1"
+  maxcollective="15" mincollective="-13"
+  phi0="110"
+  diameter="2.36" numblades="4" weightperblade="2.5" relbladecenter="0.7"
+  dynamic="1" rpm="1780" rellenflaphinge="0.0" delta3="1" translift="0" delta="0.5"
+  sharedflaphinge="1"
+  flap0="-0.5"
+  pitch-a="10"
+  pitch-b="15"
+  airfoil-lift-coefficient="6.4"
+  airfoil-drag-coefficient0="0.0035"
+  airfoil-drag-coefficient1="0.10"
+  notorque="0"
+  taper="1"
+  chord="0.25"
+  number-of-segments="5"
+  number-of-parts="4"
+  rel-len-blade-start="0.33"
+  incidence-stall-zero-speed="9"
+  incidence-stall-half-sonic-speed="18"
+  lift-factor-stall="0.18"
+  stall-change-over="5.5"
+  drag-factor-stall="8"
+  rotor-correction-factor="0.9"
+>
+
+  <control-input axis="/controls/flight/rudder-trim" control="COLLECTIVE" invert="true"/>
+  <control-input axis="/controls/flight/rudder" control="COLLECTIVE" invert="true"
+                 src0="-1.0" src1="1.0"
+                 dst0="-1.0" dst1="1.0"/>
+  <control-input axis="/controls/engines/engine[0]/throttle" control="COLLECTIVE"
+                 src0="0.1" src1="1.0"
+                 dst0="0.005" dst1="0.00"/>
+</rotor>
+
+
+<rotorgear
+  max-power-engine="2028"
+  max-power-rotor-brake="100"
+  rotorgear-friction="7.5"
+  engine-prop-factor="0.005"
+  engine-accel-limit="4"
+  yasimdragfactor="16"
+  yasimliftfactor="140"
+>
+
+  <control-input axis="/controls/engines/engine[0]/magnetos" control="ROTORGEARENGINEON"/>
+  <control-input axis="/controls/rotor/brake" control="ROTORBRAKE"
+                 src0="0.0" src1="1.0"
+                 dst0="0.0" dst1="1.0"/>
+  <!--<control-input axis="/controls/rotor/reltarget" control="ROTORRELTARGET"
+                 src0="0.0" src1="2.0"
+                 dst0="0.0" dst1="2.0"/>
+  <control-input axis="/controls/rotor/maxreltorque" control="ROTORENGINEMAXRELTORQUE"
+                 src0="0.0" src1="2.0"
+                 dst0="0.0" dst1="2.0"/>-->
+</rotorgear>
+
+
+<cockpit x="2" y=".45" z="0"/>
+
+<fuselage ax="4.3" ay="0" az="0" bx="-3.35" by="0" bz="0"
+          width="2.1" taper="1" midpoint="0.5" idrag="0" cx="0.35" cy="0.7" cz="0.7"/>
+
+<fuselage ax="-3.35" ay="0" az="-0.28" bx="-7.60" by="0" bz=".0.62"
+          width="0.40" taper="0.3" midpoint="0.5" idrag="0" cx="0.20" cy="0.4" cz="0.4"/>
+
+
+
+
+
+
+<vstab x="-7.9" y="-0.5" z="1.3" taper="0.3" length="1.33" chord="0.74" sweep="0" incidence="2.8" dihedral="0" >
+		<stall aoa="16" width="4" peak="1.5"/>
+</vstab>
+
+<vstab x="-7.9" y="0" z="0.62" taper="0.6" length="1.46" chord="1.1" sweep="30" incidence="0">
+		<stall aoa="16" width="4" peak="1.5"/>
+</vstab>
+
+
+<!-- left -->
+<gear x="-0.90" y="+1.40" z="-1.37" compression="0.35" spring="12" sfric="1" dfric="0.4">
+<control-input axis="/controls/gear/brake-left" control="BRAKE" split="true"/>
+<control-input axis="/controls/gear/brake-parking" control="BRAKE" split="true"/>
+</gear>
+
+<!-- right -->
+<gear x="-0.90" y="-1.40" z="-1.37" compression="0.35" spring="12" sfric="1" dfric="0.4">
+<control-input axis="/controls/gear/brake-right" control="BRAKE" split="true"/>
+<control-input axis="/controls/gear/brake-parking" control="BRAKE" split="true"/>
+</gear>
+
+<!-- nose -->
+<gear x="1.78" y="+0.00" z="-1.50" compression="0.35" spring="10" sfric="1" dfric="0.4">
+    <control-input axis="/controls/flight/rudder" control="STEER"
+                   src0="-1.0" src1="1.0"
+                 dst0="-0.1" dst1="0.1"/>
+</gear>
+    
+
+<!-- tail skid -->
+<gear x="-7.032" y="+0.00" z="-0.48" skid="1" compression="0.01" spring="0.1" sfric="1" dfric="1"/>
+
+<!-- Left Door -->
+<gear x="0" y="0" z="0" retract-time="4" compression="0">
+<control-input axis="/controls/doors/left-door" control="EXTEND"/>
+<control-speed control="EXTEND" transition-time="4"/>
+<control-output control="EXTEND" prop="/surface-positions/left-door-position"/>
+</gear>
+
+<!-- Right Door -->
+<gear x="0" y="0" z="0" retract-time="4" compression="0">
+<control-input axis="/controls/doors/right-door" control="EXTEND"/>
+<control-speed control="EXTEND" transition-time="4"/>
+<control-output control="EXTEND" prop="/surface-positions/right-door-position"/>
+</gear>
+
+
+<!-- MASSES charge maxi 4000 lbs -->
+
+
+
+<tank x="0" y="0" z="-0.30" capacity="2220"/>
+<tank x="0" y="0" z="-0.30" capacity="75"/>
+
+<!--<ballast x="-5" y="0" z="0.20" mass="450"/>-->
+<ballast x="0.3" y="1" z="-1" mass="1000"/>
+<ballast x="0.3" y="-1" z="-0.9" mass="1000"/>
+<ballast x="-0.8" y="1" z="-0.9" mass="750"/>
+<ballast x="-0.8" y="-1" z="-1" mass="750"/>
+
+<weight x="2.0" y="0"  z="1" mass-prop="/sim/weight[0]/weight-lb"/>
+
+<!-- Thrusters below are used by bladevibration.nas to induce overspeed vibration -->
+
+<thruster x="-2.75" y="0.0" z="1.55" vx="1" vy="0" vz="0" thrust="4000">
+  <control-input axis="/rotors/main/vibration/longitudinal" src0="-1" src1="1" dst0="-1" dst1="1" control="THROTTLE"/>
+</thruster>
+
+<thruster x="-2.75" y="0.0" z="1.55" vx="0" vy="1" vz="0" thrust="4000">
+  <control-input axis="/rotors/main/vibration/lateral" src0="-1" src1="1" dst0="-1" dst1="1" control="THROTTLE"/>
+</thruster>
+
+
+
+</airplane>

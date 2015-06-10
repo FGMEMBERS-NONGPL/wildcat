@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	
+ 
+ 
+ <!-- Switches -->
+  
+  <model>
+		<name>Landing lights</name>
+    <path>Aircraft/wildcat/Models/Instruments/switches/landing-lights.xml</path>
+    <offsets> 
+      <x-m>-2.983</x-m>
+   <y-m>0.05</y-m>
+   <z-m>-0.396</z-m>
+<pitch-deg>-10</pitch-deg>
+    </offsets>
+	</model>
+	
+	<animation>
+    <type>select</type>
+    <object-name>NoseGearLandinglight</object-name>
+    <object-name>Taxi-Light-Left</object-name>
+         
+    <condition>
+      <equals>
+        <property>controls/switches/landing-lights-switch</property>
+        <value> 1 </value>
+      </equals>
+    </condition>
+  </animation> 	
+  
+  
+   <model>
+		<name>Nav Lights</name>
+    <path>Aircraft/wildcat/Models/Instruments/switches/nav.xml</path>
+    <offsets> 
+    <x-m>-2.983</x-m>
+   <y-m>0.08</y-m>
+   <z-m>-0.396</z-m>
+<pitch-deg>-10</pitch-deg>
+
+    </offsets>
+	</model>
+	
+	<animation>
+    <type>select</type>
+    <object-name>GreenLightFlare</object-name>
+    <object-name>GreenLightRemb</object-name>
+	 <object-name>RedLightFlare</object-name>
+    <object-name>RedLightRemb</object-name>
+	<object-name>WhiteLightFlare</object-name>
+    <object-name>WhiteLightRemb</object-name>
+         
+    <condition>
+      <equals>
+        <property>controls/switches/nav-lights-switch</property>
+        <value> 1 </value>
+      </equals>
+    </condition>
+  </animation> 	
+  
+  
+    
+  
+  
+  
+   <model>
+		<name>beacon Lights</name>
+    <path>Aircraft/wildcat/Models/Instruments/switches/beacon.xml</path>
+    <offsets> 
+     <x-m>-2.983</x-m>
+   <y-m>0.11</y-m>
+   <z-m>-0.396</z-m>
+<pitch-deg>-10</pitch-deg>
+
+    </offsets>
+	</model>
+	
+	<animation>
+    <type>select</type>
+     <object-name>BeaconFlare</object-name>
+    <object-name>BeaconRemb</object-name>
+         
+    <condition>
+      <equals>
+        <property>controls/switches/beacon-switch</property>
+        <value> 1 </value>
+      </equals>
+    </condition>
+  </animation> 	
+
+  <!-- Main MFD screens. Numbered right to left -->
+  
+   <model>
+		<name>mfd1</name>
+    <path>Aircraft/wildcat/Models/Instruments/mfd/mfd1.xml</path>
+    <offsets> 
+     <x-m>-2.995</x-m>
+   <y-m>0.515</y-m>
+   <z-m>-0.21</z-m>
+<pitch-deg>-9</pitch-deg>
+
+    </offsets>
+	</model>
+
+ <model>
+		<name>mfd2</name>
+    <path>Aircraft/wildcat/Models/Instruments/mfd/mfd2.xml</path>
+    <offsets> 
+     <x-m>-2.995</x-m>
+   <y-m>0.156</y-m>
+   <z-m>-0.21</z-m>
+<pitch-deg>-9</pitch-deg>
+
+    </offsets>
+	</model>
+	
+	<model>
+		<name>mfd3</name>
+    <path>Aircraft/wildcat/Models/Instruments/mfd/mfd3.xml</path>
+    <offsets> 
+     <x-m>-2.995</x-m>
+   <y-m>-0.22</y-m>
+   <z-m>-0.21</z-m>
+<pitch-deg>-9</pitch-deg>
+
+    </offsets>
+	</model>
+	
+	<model>
+		<name>mfd4</name>
+    <path>Aircraft/wildcat/Models/Instruments/mfd/mfd4.xml</path>
+    <offsets> 
+     <x-m>-2.995</x-m>
+   <y-m>-0.575</y-m>
+   <z-m>-0.21</z-m>
+<pitch-deg>-9</pitch-deg>
+
+    </offsets>
+	</model>
+	
+	  <model>
+		<name>ai1</name>
+    <path>Aircraft/wildcat/Models/Instruments/ai/stby-ai.xml</path>
+    <offsets> 
+     <x-m>-2.9962</x-m>
+   <y-m>0.315</y-m>
+   <z-m>0.07</z-m>
+<pitch-deg>-9</pitch-deg>
+
+    </offsets>
+	<overlay>
+		 <animation n="100">
+    <type>scale</type>
+    <property>constants/zero</property>
+    <x-offset>1</x-offset>
+    <y-offset>0.8</y-offset>
+    <z-offset>0.8</z-offset>
+   </animation>
+  </overlay>
+	
+	</model>
+	
+		  <model>
+		<name>ai2</name>
+    <path>Aircraft/wildcat/Models/Instruments/ai/stby-ai.xml</path>
+    <offsets> 
+     <x-m>-2.9948</x-m>
+   <y-m>-0.215</y-m>
+   <z-m>0.07</z-m>
+<pitch-deg>-9</pitch-deg>
+
+    </offsets>
+	<overlay>
+		 <animation n="100">
+    <type>scale</type>
+    <property>constants/zero</property>
+    <x-offset>1</x-offset>
+    <y-offset>0.8</y-offset>
+    <z-offset>0.8</z-offset>
+   </animation>
+  </overlay>
+	
+	</model>
+	
+	<model>
+		<name>clock</name>
+    <path>Aircraft/wildcat/Models/Instruments/clock/clock.xml</path>
+    <offsets> 
+     <x-m>-2.9995</x-m>
+   <y-m>0.24</y-m>
+   <z-m>0.0844</z-m>
+<pitch-deg>-9</pitch-deg>
+
+    </offsets>
+	<overlay>
+		 <animation n="100">
+    <type>scale</type>
+    <property>constants/zero</property>
+    <x-offset>1</x-offset>
+    <y-offset>0.5</y-offset>
+    <z-offset>0.5</z-offset>
+   </animation>
+  </overlay>
+	
+	</model>
+
+	<model>
+		
+		<path>Aircraft/Instruments-3d/kln94/kln94.xml</path>
+		<offsets>
+			  <x-m>-2.995</x-m>
+   <y-m>-0.04</y-m>
+   <z-m>0.07</z-m>
+<pitch-deg>-9</pitch-deg>
+		</offsets>
+	</model>	
+	
+	
+<model>
+<name>cdu1</name>
+		<path>Aircraft/Instruments-3d/cdu/boeing.xml</path>
+		<offsets>
+			<x-m>-2.855</x-m>
+			<y-m>-0.125</y-m>
+			<z-m>-0.48</z-m>
+			<pitch-deg>-71</pitch-deg>
+		</offsets>
+		<overlay>
+			<texture>boeing_grey.png</texture>
+			 <animation n="100">
+    <type>scale</type>
+    <property>constants/zero</property>
+    <x-offset>1</x-offset>
+    <y-offset>0.97</y-offset>
+    <z-offset>1.05</z-offset>
+   </animation>
+		</overlay>
+	</model>
+
+<model>
+<name>cdu2</name>
+		<path>Aircraft/Instruments-3d/cdu/boeing.xml</path>
+		<offsets>
+			<x-m>-2.855</x-m>
+			<y-m>0.025</y-m>
+			<z-m>-0.48</z-m>
+			<pitch-deg>-71</pitch-deg>
+		</offsets>
+		<overlay>
+			<texture>boeing_grey.png</texture>
+			 <animation n="100">
+    <type>scale</type>
+    <property>constants/zero</property>
+    <x-offset>1</x-offset>
+    <y-offset>0.97</y-offset>
+    <z-offset>1.05</z-offset>
+   </animation>
+		</overlay>
+	</model>	
+	
+</PropertyList>
+
