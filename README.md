@@ -50,12 +50,73 @@ condition of any aircraft, follow the submodule removal instructions provided be
 
 
 ***
+Using the FGDATA next (with submodules) to obtain restricted aircraft
+----------------------------------------------------------------------
 
-Using the Repository (with submodules)
---------------------------------------
+This repository can be obtained as a submodule of FGDATA next with Submodules.
+
+http://sourceforge.net/p/fgdata/submodules/ci/next/tree/
+
+And therefore, Aircraft can be imported directly into FGDATA.
+The repository is located in the directory
+
+
+           Aircraft-restricted
+
+
+To effectively isolate FGDATA Aircraft that are GPL (from FGMEMBERS: https://github.com/FGMEMBERS) from Aircraft with restrictive licenses (FGMEMBERS-RESTRICTED: https://github.com/FGMEMBERS-RESTRICTED)
+
+
+After cloning FGDATA next with submodules
+
+
+             git clone http://git.code.sf.net/p/fgdata/submodules fgdata
+
+In addition  to the large collection of GPL submodules in Aircraft/ directory, you can prepare the Aircraft-restricted submodule to obtain restricted Aircraft
+
+
+             cd fgdata
+	     git submodule init Aircraft-restricted
+	     git submodule update Aircraft-restricted
+
+After preparing the Aircraft-restricted submodule, you can now enter the directory Aircraft-restricted. You will see all restricted Aircraft directories now available, but these will be empty.
+
+At this point you can initialize and update any restricted Aircraft as indicated below; keep in mind, that obtaining a restricted Aircraft is understood as an agreeing with the correspoding license. Look for COPYING or LICENSE file, and if you disagree, simply deinitialize the submodule to uninstall.
+
+example initializing and installing the DavePack [Required for most Aircraft by Dave Culp]
+
+             cd Aircraft-restricted
+	     git submodule init DavePack
+	     git submodule update
+
+
+You can initialize and install all restricted aircraft easily, as well
+
+             cd Aircraft-restricted
+	     git submodule init  # without a parameter initializes all subsubmodules
+	     git submodule update # updates every submodule previously initialized
+
+
+
+Deinstalling an aircraft
+-------------------------
+
+To deinstall an aircraft simply deinit a submodule
+
+example
+
+             cd Aircraft-restricted
+	     git submodule deinit DavePack
+
+
+
+***
+
+Using the Repository stand-alone (with submodules)
+---------------------------------------------------
 
 This repository can be used to manage the installation of one, many, or
-serveral restricted license aircrafts for flightgear
+several restricted license aircrafts for flightgear
 
 It can be cloned anywhere in your hard-drive, and flightgear can be pointed to
 this directory for additional aircraft (with the launchers, or the command
