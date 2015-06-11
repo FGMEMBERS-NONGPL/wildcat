@@ -2,7 +2,7 @@ FG Restricted Aircraft
 ----------------------
 
 This git repository contains several FG aircraft as submodules. These Aircraft
-contain varying restricting licenses, including but not limited to Creative
+contain varying <b>non GPL </b> restricting licenses, including but not limited to Creative
 Commons, and No-Commercial Share alike.
 
 Please verify the content of each aircraft for a LICENSE, COPYING file or
@@ -61,10 +61,10 @@ And therefore, Aircraft can be imported directly into FGDATA.
 The repository is located in the directory
 
 
-           Aircraft-restricted
+           Aircraft-nonGPL
 
 
-To effectively isolate FGDATA Aircraft that are GPL (<a href="https://github.com/FGMEMBERS">FGMEMBERS</a>) from Aircraft with restrictive licenses (<a href="https://github.com/FGMEMBERS-RESTRICTED">FGMEMBERS-RESTRICTED</a>)
+To effectively isolate FGDATA Aircraft that are GPL (<a href="https://github.com/FGMEMBERS">FGMEMBERS</a>) from Aircraft with restrictive licenses (<a href="https://github.com/FGMEMBERS-NONGPL">FGMEMBERS-NONGPL</a>)
 
 
 After cloning FGDATA next with submodules
@@ -74,10 +74,9 @@ After cloning FGDATA next with submodules
 
 In addition  to the large collection of GPL submodules in Aircraft/ directory, you can prepare the Aircraft-restricted submodule to obtain restricted Aircraft
 
-
              cd fgdata
-	     git submodule init Aircraft-restricted
-	     git submodule update Aircraft-restricted
+	     git submodule init Aircraft-nonGPL
+	     git submodule update Aircraft-nonGPL
 
 After preparing the Aircraft-restricted submodule, you can now enter the directory Aircraft-restricted. You will see all restricted Aircraft directories now available, but these will be empty.
 
@@ -85,17 +84,16 @@ At this point you can initialize and update any restricted Aircraft as indicated
 
 example initializing and installing the DavePack [Required for most Aircraft by Dave Culp]
 
-             cd Aircraft-restricted
+             cd Aircraft-nonGPL
 	     git submodule init DavePack
 	     git submodule update
 
 
 You can initialize and install all restricted aircraft easily, as well
 
-             cd Aircraft-restricted
+             cd Aircraft-nonGPL
 	     git submodule init  # without a parameter initializes all subsubmodules
 	     git submodule update # updates every submodule previously initialized
-
 
 
 Deinstalling an aircraft
@@ -105,9 +103,8 @@ To deinstall an aircraft simply deinit a submodule
 
 example
 
-             cd Aircraft-restricted
+             cd Aircraft-nonGPL
 	     git submodule deinit DavePack
-
 
 
 ***
@@ -122,28 +119,28 @@ It can be cloned anywhere in your hard-drive, and flightgear can be pointed to
 this directory for additional aircraft (with the launchers, or the command
 line)
 
-     fgfs --fg-aircraft=$PATH_TO_FG-RestrictedAircrafts_REPO/Aircraft
+     fgfs --fg-aircraft=$PATH_TO_FG-Aircraft-nonGPL
 
 To clone the primary repository
  
-     git clone git@github.com:FGMEMBERS-RESTRICTED/FG-RestrictedAircrafts.git
+     git clone git@github.com:FGMEMBERS-RESTRICTED/FG-Aircraft-nonGPL.git
      
 To initialize a submodule
 
-     git submodule init Aircraft/DavePack
+     cd FG-Aircraft-nonGPL
+     git submodule init DavePack
 
-To update all initialized submodules (it does not install non-initialized
-submodules )
+To update all initialized submodules (it does not install non-initialized submodules )
 
       git submodule update
 
 To update a given submodule
   
-      git submodule update Aircraft/DavePack
+      git submodule update DavePack
 
 To update and initialize any submodule (one line)
 
-      git submodule update Aircraft/DavePack --initialize
+      git submodule update DavePack --initialize
 
 To initialize all submodules 
 
@@ -165,11 +162,11 @@ hard-drive), or because you do not agree with its licensing conditions.
 
 To deinit a submodule
 
-       git submodule deinit Aircraft/DavePack
+       git submodule deinit DavePack
 
 To remove a submodule after deinitialization
 
-        git submodule update Aircraft/DavePack
+        git submodule update DavePack
 
 To remove/install all submodule initialized or de-initialized
 
