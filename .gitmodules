@@ -1,267 +1,267 @@
 [submodule "DavePack"]
 	path = DavePack
-	url = https://github.com/FGMEMBERS-RESTRICTED/DavePack.git
+	url = https://github.com/FGMEMBERS-NONGPL/DavePack.git
 [submodule "MD-80"]
 	path = MD-80
-	url = https://github.com/FGMEMBERS-RESTRICTED/MD-80.git
+	url = https://github.com/FGMEMBERS-NONGPL/MD-80.git
 [submodule "RA-5"]
 	path = RA-5
-	url = https://github.com/FGMEMBERS-RESTRICTED/RA-5.git
+	url = https://github.com/FGMEMBERS-NONGPL/RA-5.git
 [submodule "A-1H"]
 	path = A-1H
-	url = https://github.com/FGMEMBERS-RESTRICTED/A-1H.git
+	url = https://github.com/FGMEMBERS-NONGPL/A-1H.git
 [submodule "A-29B"]
 	path = A-29B
-	url = https://github.com/FGMEMBERS-RESTRICTED/A-29B.git
+	url = https://github.com/FGMEMBERS-NONGPL/A-29B.git
 [submodule "A-3"]
 	path = A-3
-	url = https://github.com/FGMEMBERS-RESTRICTED/A-3.git
+	url = https://github.com/FGMEMBERS-NONGPL/A-3.git
 [submodule "A-7E_vx5"]
 	path = A-7E_vx5
-	url = https://github.com/FGMEMBERS-RESTRICTED/A-7E_vx5.git
+	url = https://github.com/FGMEMBERS-NONGPL/A-7E_vx5.git
 [submodule "AC130"]
 	path = AC130
-	url = https://github.com/FGMEMBERS-RESTRICTED/AC130.git
+	url = https://github.com/FGMEMBERS-NONGPL/AC130.git
 [submodule "AD-4"]
 	path = AD-4
-	url = https://github.com/FGMEMBERS-RESTRICTED/AD-4.git
+	url = https://github.com/FGMEMBERS-NONGPL/AD-4.git
 [submodule "AD-6"]
 	path = AD-6
-	url = https://github.com/FGMEMBERS-RESTRICTED/AD-6.git
+	url = https://github.com/FGMEMBERS-NONGPL/AD-6.git
 [submodule "Aerocar"]
 	path = Aerocar
-	url = https://github.com/FGMEMBERS-RESTRICTED/Aerocar.git
+	url = https://github.com/FGMEMBERS-NONGPL/Aerocar.git
 [submodule "AH-1"]
 	path = AH-1
-	url = https://github.com/FGMEMBERS-RESTRICTED/AH-1.git
+	url = https://github.com/FGMEMBERS-NONGPL/AH-1.git
 [submodule "AH-1S"]
 	path = AH-1S
-	url = https://github.com/FGMEMBERS-RESTRICTED/AH-1S.git
+	url = https://github.com/FGMEMBERS-NONGPL/AH-1S.git
 [submodule "AS330-Puma"]
 	path = AS330-Puma
-	url = https://github.com/FGMEMBERS-RESTRICTED/AS330-Puma.git
+	url = https://github.com/FGMEMBERS-NONGPL/AS330-Puma.git
 [submodule "AT-29"]
 	path = AT-29
-	url = https://github.com/FGMEMBERS-RESTRICTED/AT-29.git
+	url = https://github.com/FGMEMBERS-NONGPL/AT-29.git
 [submodule "aw139"]
 	path = aw139
-	url = https://github.com/FGMEMBERS-RESTRICTED/aw139.git
+	url = https://github.com/FGMEMBERS-NONGPL/aw139.git
 [submodule "bk117"]
 	path = bk117
-	url = https://github.com/FGMEMBERS-RESTRICTED/bk117.git
+	url = https://github.com/FGMEMBERS-NONGPL/bk117.git
 [submodule "F-4EJ"]
 	path = F-4EJ
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4EJ.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4EJ.git
 [submodule "FA-18"]
 	path = FA-18
-	url = https://github.com/FGMEMBERS-RESTRICTED/FA-18.git
+	url = https://github.com/FGMEMBERS-NONGPL/FA-18.git
 [submodule "shuttle6"]
 	path = shuttle6
-	url = https://github.com/FGMEMBERS-RESTRICTED/shuttle6.git
+	url = https://github.com/FGMEMBERS-NONGPL/shuttle6.git
 [submodule "danube"]
 	path = danube
-	url = https://github.com/FGMEMBERS-RESTRICTED/danube.git
+	url = https://github.com/FGMEMBERS-NONGPL/danube.git
 [submodule "shuttle9"]
 	path = shuttle9
-	url = https://github.com/FGMEMBERS-RESTRICTED/shuttle9.git
+	url = https://github.com/FGMEMBERS-NONGPL/shuttle9.git
 [submodule "daedalus"]
 	path = daedalus
-	url = https://github.com/FGMEMBERS-RESTRICTED/daedalus.git
+	url = https://github.com/FGMEMBERS-NONGPL/daedalus.git
 [submodule "Cygnet_II"]
 	path = Cygnet_II
-	url = https://github.com/FGMEMBERS-RESTRICTED/Cygnet_II.git
+	url = https://github.com/FGMEMBERS-NONGPL/Cygnet_II.git
 [submodule "Learjet2"]
 	path = Learjet2
-	url = https://github.com/FGMEMBERS-RESTRICTED/Learjet2.git
+	url = https://github.com/FGMEMBERS-NONGPL/Learjet2.git
 [submodule "Fusca"]
 	path = Fusca
-	url = https://github.com/FGMEMBERS-RESTRICTED/Fusca.git
+	url = https://github.com/FGMEMBERS-NONGPL/Fusca.git
 [submodule "F-100"]
 	path = F-100
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-100.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-100.git
 [submodule "F-103E"]
 	path = F-103E
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-103E.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-103E.git
 [submodule "F-105"]
 	path = F-105
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-105.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-105.git
 [submodule "F-4D"]
 	path = F-4D
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4D.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4D.git
 [submodule "F-4E"]
 	path = F-4E
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4E.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4E.git
 [submodule "F-4ETB"]
 	path = F-4ETB
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4ETB.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4ETB.git
 [submodule "F-4F"]
 	path = F-4F
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4F.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4F.git
 [submodule "F-4J"]
 	path = F-4J
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4J.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4J.git
 [submodule "F-4Jvx4"]
 	path = F-4Jvx4
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4Jvx4.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4Jvx4.git
 [submodule "F-4J76"]
 	path = F-4J76
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4J76.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4J76.git
 [submodule "F-4N"]
 	path = F-4N
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-4N.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-4N.git
 [submodule "F-5E"]
 	path = F-5E
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-5E.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-5E.git
 [submodule "F-7MG"]
 	path = F-7MG
-	url = https://github.com/FGMEMBERS-RESTRICTED/F-7MG.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-7MG.git
 [submodule "FGR2"]
 	path = FGR2
-	url = https://github.com/FGMEMBERS-RESTRICTED/FGR2.git
+	url = https://github.com/FGMEMBERS-NONGPL/FGR2.git
 [submodule "FJ-3"]
 	path = FJ-3
-	url = https://github.com/FGMEMBERS-RESTRICTED/FJ-3.git
+	url = https://github.com/FGMEMBERS-NONGPL/FJ-3.git
 [submodule "MD-81"]
 	path = MD-81
-	url = https://github.com/FGMEMBERS-RESTRICTED/MD-81.git
+	url = https://github.com/FGMEMBERS-NONGPL/MD-81.git
 [submodule "Goose"]
 	path = Goose
-	url = https://github.com/FGMEMBERS-RESTRICTED/Goose.git
+	url = https://github.com/FGMEMBERS-NONGPL/Goose.git
 [submodule "Thornycroft_AA"]
 	path = Thornycroft_AA
-	url = https://github.com/FGMEMBERS-RESTRICTED/Thornycroft_AA.git
+	url = https://github.com/FGMEMBERS-NONGPL/Thornycroft_AA.git
 [submodule "Morane_Saulnier_N"]
 	path = Morane_Saulnier_N
-	url = https://github.com/FGMEMBERS-RESTRICTED/Morane-Saulnier_N.git
+	url = https://github.com/FGMEMBERS-NONGPL/Morane-Saulnier_N.git
 [submodule "il-96-400"]
 	path = il-96-400
-	url = https://github.com/FGMEMBERS-RESTRICTED/il-96-400.git
+	url = https://github.com/FGMEMBERS-NONGPL/il-96-400.git
 [submodule "Hawk"]
 	path = Hawk
-	url = https://github.com/FGMEMBERS-RESTRICTED/Hawk.git
+	url = https://github.com/FGMEMBERS-NONGPL/Hawk.git
 [submodule "Kfir"]
 	path = Kfir
-	url = https://github.com/FGMEMBERS-RESTRICTED/Kfir.git
+	url = https://github.com/FGMEMBERS-NONGPL/Kfir.git
 [submodule "Lamborghini_Murcielago"]
 	path = Lamborghini_Murcielago
-	url = https://github.com/FGMEMBERS-RESTRICTED/Lamborghini_Murcielago.git
+	url = https://github.com/FGMEMBERS-NONGPL/Lamborghini_Murcielago.git
 [submodule "m113"]
 	path = m113
-	url = https://github.com/FGMEMBERS-RESTRICTED/m113.git
+	url = https://github.com/FGMEMBERS-NONGPL/m113.git
 [submodule "MB326"]
 	path = MB326
-	url = https://github.com/FGMEMBERS-RESTRICTED/MB326.git
+	url = https://github.com/FGMEMBERS-NONGPL/MB326.git
 [submodule "MiG-21"]
 	path = MiG-21
-	url = https://github.com/FGMEMBERS-RESTRICTED/MiG-21.git
+	url = https://github.com/FGMEMBERS-NONGPL/MiG-21.git
 [submodule "P-47D"]
 	path = P-47D
-	url = https://github.com/FGMEMBERS-RESTRICTED/P-47D.git
+	url = https://github.com/FGMEMBERS-NONGPL/P-47D.git
 [submodule "panzer"]
 	path = panzer
-	url = https://github.com/FGMEMBERS-RESTRICTED/panzer.git
+	url = https://github.com/FGMEMBERS-NONGPL/panzer.git
 [submodule "pc7"]
 	path = pc7
-	url = https://github.com/FGMEMBERS-RESTRICTED/pc7.git
+	url = https://github.com/FGMEMBERS-NONGPL/pc7.git
 [submodule "PreciousMetal"]
 	path = PreciousMetal
-	url = https://github.com/FGMEMBERS-RESTRICTED/PreciousMetal.git
+	url = https://github.com/FGMEMBERS-NONGPL/PreciousMetal.git
 [submodule "SeaFury"]
 	path = SeaFury
-	url = https://github.com/FGMEMBERS-RESTRICTED/SeaFury.git
+	url = https://github.com/FGMEMBERS-NONGPL/SeaFury.git
 [submodule "DC-9-32"]
 	path = DC-9-32
-	url = https://github.com/FGMEMBERS-RESTRICTED/DC-9-32.git
+	url = https://github.com/FGMEMBERS-NONGPL/DC-9-32.git
 [submodule "hp-hampden-mki"]
 	path = hp-hampden-mki
-	url = https://github.com/FGMEMBERS-RESTRICTED/hp-hampden-mki.git
+	url = https://github.com/FGMEMBERS-NONGPL/hp-hampden-mki.git
 [submodule "percival-petrel"]
 	path = percival-petrel
-	url = https://github.com/FGMEMBERS-RESTRICTED/percival-petrel.git
+	url = https://github.com/FGMEMBERS-NONGPL/percival-petrel.git
 [submodule "Vickers_Nene_Viking"]
 	path = Vickers_Nene_Viking
-	url = https://github.com/FGMEMBERS-RESTRICTED/Vickers_Nene_Viking.git
+	url = https://github.com/FGMEMBERS-NONGPL/Vickers_Nene_Viking.git
 [submodule "Yak-55M"]
 	path = Yak-55M
-	url = git@github.com:FGMEMBERS-RESTRICTED/Yak-55M.git
+	url = git@github.com:FGMEMBERS-NONGPL/Yak-55M.git
 [submodule "S-3B"]
 	path = S-3B
-	url = git@github.com:FGMEMBERS-RESTRICTED/S-3B.git
+	url = git@github.com:FGMEMBERS-NONGPL/S-3B.git
 [submodule "Su-26M"]
 	path = Su-26M
-	url = git@github.com:FGMEMBERS-RESTRICTED/Su-26M.git
+	url = git@github.com:FGMEMBERS-NONGPL/Su-26M.git
 [submodule "T-2"]
 	path = T-2
-	url = git@github.com:FGMEMBERS-RESTRICTED/T-2.git
+	url = git@github.com:FGMEMBERS-NONGPL/T-2.git
 [submodule "Sopwith_Tabloid"]
 	path = Sopwith_Tabloid
-	url = git@github.com:FGMEMBERS-RESTRICTED/Sopwith_Tabloid.git
+	url = git@github.com:FGMEMBERS-NONGPL/Sopwith_Tabloid.git
 [submodule "MF-11-shorthorn"]
 	path = MF-11-shorthorn
-	url = git@github.com:FGMEMBERS-RESTRICTED/MF-11-shorthorn.git
+	url = git@github.com:FGMEMBERS-NONGPL/MF-11-shorthorn.git
 [submodule "P-80"]
 	path = P-80
-	url = git@github.com:FGMEMBERS-RESTRICTED/P-80.git
+	url = git@github.com:FGMEMBERS-NONGPL/P-80.git
 [submodule "Blackburn-Buccaneer"]
 	path = Blackburn-Buccaneer
-	url = git@github.com:FGMEMBERS-RESTRICTED/Blackburn-Buccaneer.git
+	url = git@github.com:FGMEMBERS-NONGPL/Blackburn-Buccaneer.git
 [submodule "KI2000"]
 	path = KI2000
-	url = git@github.com:FGMEMBERS-RESTRICTED/KI2000.git
+	url = git@github.com:FGMEMBERS-NONGPL/KI2000.git
 [submodule "Short-Belfast"]
 	path = Short-Belfast
-	url = git@github.com:FGMEMBERS-RESTRICTED/Short-Belfast.git
+	url = git@github.com:FGMEMBERS-NONGPL/Short-Belfast.git
 [submodule "SSJ"]
 	path = SSJ
-	url = git@github.com:FGMEMBERS-RESTRICTED/SSJ.git
+	url = git@github.com:FGMEMBERS-NONGPL/SSJ.git
 [submodule "TU-214"]
 	path = TU-214
-	url = git@github.com:FGMEMBERS-RESTRICTED/TU-214.git
+	url = git@github.com:FGMEMBERS-NONGPL/TU-214.git
 [submodule "TF-104G"]
 	path = TF-104G
-	url = git@github.com:FGMEMBERS-RESTRICTED/TF-104G.git
+	url = git@github.com:FGMEMBERS-NONGPL/TF-104G.git
 [submodule "tucano"]
 	path = tucano
-	url = git@github.com:FGMEMBERS-RESTRICTED/tucano.git
+	url = git@github.com:FGMEMBERS-NONGPL/tucano.git
 [submodule "Typhoon"]
 	path = Typhoon
-	url = git@github.com:FGMEMBERS-RESTRICTED/Typhoon.git
+	url = git@github.com:FGMEMBERS-NONGPL/Typhoon.git
 [submodule "A-7E"]
 	path = A-7E
-	url = git@github.com:FGMEMBERS-RESTRICTED/A-7E.git
+	url = git@github.com:FGMEMBERS-NONGPL/A-7E.git
 [submodule "wildcat"]
 	path = wildcat
-	url = git@github.com:FGMEMBERS-RESTRICTED/wildcat.git
+	url = git@github.com:FGMEMBERS-NONGPL/wildcat.git
 [submodule "WG13_Lynx"]
 	path = WG13_Lynx
-	url = git@github.com:FGMEMBERS-RESTRICTED/WG13_Lynx.git
+	url = git@github.com:FGMEMBERS-NONGPL/WG13_Lynx.git
 [submodule "piper-archer"]
 	path = piper-archer
-	url = git@github.com:FGMEMBERS-RESTRICTED/piper-archer.git
+	url = git@github.com:FGMEMBERS-NONGPL/piper-archer.git
 [submodule "F-100D"]
 	path = F-100D
-	url = git@github.com:FGMEMBERS-RESTRICTED/F-100D.git
+	url = git@github.com:FGMEMBERS-NONGPL/F-100D.git
 [submodule "Mirage-IIICJ"]
 	path = Mirage-IIICJ
-	url = git@github.com:FGMEMBERS-RESTRICTED/Mirage-IIICJ.git
+	url = git@github.com:FGMEMBERS-NONGPL/Mirage-IIICJ.git
 [submodule "Optica"]
 	path = Optica
-	url = https://github.com/FGMEMBERS-RESTRICTED/Optica.git
+	url = https://github.com/FGMEMBERS-NONGPL/Optica.git
 [submodule "T-4"]
 	path = T-4
-	url = https://github.com/FGMEMBERS-RESTRICTED/T-4.git
+	url = https://github.com/FGMEMBERS-NONGPL/T-4.git
 [submodule "T-50"]
 	path = T-50
-	url = https://github.com/FGMEMBERS-RESTRICTED/T-50.git
+	url = https://github.com/FGMEMBERS-NONGPL/T-50.git
 [submodule "truck"]
 	path = truck
-	url = https://github.com/FGMEMBERS-RESTRICTED/truck.git
+	url = https://github.com/FGMEMBERS-NONGPL/truck.git
 [submodule "TU-160"]
 	path = TU-160
-	url = https://github.com/FGMEMBERS-RESTRICTED/TU-160.git
+	url = https://github.com/FGMEMBERS-NONGPL/TU-160.git
 [submodule "X-02"]
 	path = X-02
-	url = https://github.com/FGMEMBERS-RESTRICTED/X-02.git
+	url = https://github.com/FGMEMBERS-NONGPL/X-02.git
 [submodule "X-Wing"]
 	path = X-Wing
-	url = https://github.com/FGMEMBERS-RESTRICTED/X-Wing.git
+	url = https://github.com/FGMEMBERS-NONGPL/X-Wing.git
