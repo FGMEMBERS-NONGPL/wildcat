@@ -244,3 +244,24 @@
 [submodule "Mirage-IIICJ"]
 	path = Mirage-IIICJ
 	url = git@github.com:FGMEMBERS-RESTRICTED/Mirage-IIICJ.git
+[submodule "Optica"]
+	path = Optica
+	url = https://github.com/FGMEMBERS-RESTRICTED/Optica.git
+[submodule "T-4"]
+	path = T-4
+	url = https://github.com/FGMEMBERS-RESTRICTED/T-4.git
+[submodule "T-50"]
+	path = T-50
+	url = https://github.com/FGMEMBERS-RESTRICTED/T-50.git
+[submodule "truck"]
+	path = truck
+	url = https://github.com/FGMEMBERS-RESTRICTED/truck.git
+[submodule "TU-160"]
+	path = TU-160
+	url = https://github.com/FGMEMBERS-RESTRICTED/TU-160.git
+[submodule "X-02"]
+	path = X-02
+	url = https://github.com/FGMEMBERS-RESTRICTED/X-02.git
+[submodule "X-Wing"]
+	path = X-Wing
+	url = https://github.com/FGMEMBERS-RESTRICTED/X-Wing.git
