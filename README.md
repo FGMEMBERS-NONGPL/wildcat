@@ -64,7 +64,7 @@ The repository is located in the directory
            Aircraft-restricted
 
 
-To effectively isolate FGDATA Aircraft that are GPL (from FGMEMBERS: https://github.com/FGMEMBERS) from Aircraft with restrictive licenses (FGMEMBERS-RESTRICTED: https://github.com/FGMEMBERS-RESTRICTED)
+To effectively isolate FGDATA Aircraft that are GPL (<a href="https://github.com/FGMEMBERS">FGMEMBERS</a>) from Aircraft with restrictive licenses (<a href="https://github.com/FGMEMBERS-RESTRICTED">FGMEMBERS-RESTRICTED</a>)
 
 
 After cloning FGDATA next with submodules
