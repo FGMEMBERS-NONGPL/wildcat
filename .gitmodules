@@ -193,9 +193,6 @@
 [submodule "P-80"]
 	path = P-80
 	url = git@github.com:FGMEMBERS-NONGPL/P-80.git
-[submodule "Blackburn-Buccaneer"]
-	path = Blackburn-Buccaneer
-	url = git@github.com:FGMEMBERS-NONGPL/Blackburn-Buccaneer.git
 [submodule "KI2000"]
 	path = KI2000
 	url = git@github.com:FGMEMBERS-NONGPL/KI2000.git
