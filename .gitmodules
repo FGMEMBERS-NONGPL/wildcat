@@ -43,9 +43,6 @@
 [submodule "AT-29"]
 	path = AT-29
 	url = https://github.com/FGMEMBERS-NONGPL/AT-29.git
-[submodule "aw139"]
-	path = aw139
-	url = https://github.com/FGMEMBERS-NONGPL/aw139.git
 [submodule "F-4EJ"]
 	path = F-4EJ
 	url = https://github.com/FGMEMBERS-NONGPL/F-4EJ.git
