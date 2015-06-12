@@ -124,9 +124,6 @@
 [submodule "MD-81"]
 	path = MD-81
 	url = https://github.com/FGMEMBERS-NONGPL/MD-81.git
-[submodule "Goose"]
-	path = Goose
-	url = https://github.com/FGMEMBERS-NONGPL/Goose.git
 [submodule "Thornycroft_AA"]
 	path = Thornycroft_AA
 	url = https://github.com/FGMEMBERS-NONGPL/Thornycroft_AA.git
