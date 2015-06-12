@@ -174,64 +174,64 @@
 	url = https://github.com/FGMEMBERS-NONGPL/Vickers_Nene_Viking.git
 [submodule "Yak-55M"]
 	path = Yak-55M
-	url = git@github.com:FGMEMBERS-NONGPL/Yak-55M.git
+	url = https://github.com/FGMEMBERS-NONGPL/Yak-55M.git
 [submodule "S-3B"]
 	path = S-3B
-	url = git@github.com:FGMEMBERS-NONGPL/S-3B.git
+	url = https://github.com/FGMEMBERS-NONGPL/S-3B.git
 [submodule "Su-26M"]
 	path = Su-26M
-	url = git@github.com:FGMEMBERS-NONGPL/Su-26M.git
+	url = https://github.com/FGMEMBERS-NONGPL/Su-26M.git
 [submodule "T-2"]
 	path = T-2
-	url = git@github.com:FGMEMBERS-NONGPL/T-2.git
+	url = https://github.com/FGMEMBERS-NONGPL/T-2.git
 [submodule "Sopwith_Tabloid"]
 	path = Sopwith_Tabloid
-	url = git@github.com:FGMEMBERS-NONGPL/Sopwith_Tabloid.git
+	url = https://github.com/FGMEMBERS-NONGPL/Sopwith_Tabloid.git
 [submodule "MF-11-shorthorn"]
 	path = MF-11-shorthorn
-	url = git@github.com:FGMEMBERS-NONGPL/MF-11-shorthorn.git
+	url = https://github.com/FGMEMBERS-NONGPL/MF-11-shorthorn.git
 [submodule "P-80"]
 	path = P-80
-	url = git@github.com:FGMEMBERS-NONGPL/P-80.git
+	url = https://github.com/FGMEMBERS-NONGPL/P-80.git
 [submodule "KI2000"]
 	path = KI2000
-	url = git@github.com:FGMEMBERS-NONGPL/KI2000.git
+	url = https://github.com/FGMEMBERS-NONGPL/KI2000.git
 [submodule "Short-Belfast"]
 	path = Short-Belfast
-	url = git@github.com:FGMEMBERS-NONGPL/Short-Belfast.git
+	url = https://github.com/FGMEMBERS-NONGPL/Short-Belfast.git
 [submodule "SSJ"]
 	path = SSJ
-	url = git@github.com:FGMEMBERS-NONGPL/SSJ.git
+	url = https://github.com/FGMEMBERS-NONGPL/SSJ.git
 [submodule "TU-214"]
 	path = TU-214
-	url = git@github.com:FGMEMBERS-NONGPL/TU-214.git
+	url = https://github.com/FGMEMBERS-NONGPL/TU-214.git
 [submodule "TF-104G"]
 	path = TF-104G
-	url = git@github.com:FGMEMBERS-NONGPL/TF-104G.git
+	url = https://github.com/FGMEMBERS-NONGPL/TF-104G.git
 [submodule "tucano"]
 	path = tucano
-	url = git@github.com:FGMEMBERS-NONGPL/tucano.git
+	url = https://github.com/FGMEMBERS-NONGPL/tucano.git
 [submodule "Typhoon"]
 	path = Typhoon
-	url = git@github.com:FGMEMBERS-NONGPL/Typhoon.git
+	url = https://github.com/FGMEMBERS-NONGPL/Typhoon.git
 [submodule "A-7E"]
 	path = A-7E
-	url = git@github.com:FGMEMBERS-NONGPL/A-7E.git
+	url = https://github.com/FGMEMBERS-NONGPL/A-7E.git
 [submodule "wildcat"]
 	path = wildcat
-	url = git@github.com:FGMEMBERS-NONGPL/wildcat.git
+	url = https://github.com/FGMEMBERS-NONGPL/wildcat.git
 [submodule "WG13_Lynx"]
 	path = WG13_Lynx
-	url = git@github.com:FGMEMBERS-NONGPL/WG13_Lynx.git
+	url = https://github.com/FGMEMBERS-NONGPL/WG13_Lynx.git
 [submodule "piper-archer"]
 	path = piper-archer
-	url = git@github.com:FGMEMBERS-NONGPL/piper-archer.git
+	url = https://github.com/FGMEMBERS-NONGPL/piper-archer.git
 [submodule "F-100D"]
 	path = F-100D
-	url = git@github.com:FGMEMBERS-NONGPL/F-100D.git
+	url = https://github.com/FGMEMBERS-NONGPL/F-100D.git
 [submodule "Mirage-IIICJ"]
 	path = Mirage-IIICJ
-	url = git@github.com:FGMEMBERS-NONGPL/Mirage-IIICJ.git
+	url = https://github.com/FGMEMBERS-NONGPL/Mirage-IIICJ.git
 [submodule "Optica"]
 	path = Optica
 	url = https://github.com/FGMEMBERS-NONGPL/Optica.git
