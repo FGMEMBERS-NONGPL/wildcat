@@ -46,9 +46,6 @@
 [submodule "aw139"]
 	path = aw139
 	url = https://github.com/FGMEMBERS-NONGPL/aw139.git
-[submodule "bk117"]
-	path = bk117
-	url = https://github.com/FGMEMBERS-NONGPL/bk117.git
 [submodule "F-4EJ"]
 	path = F-4EJ
 	url = https://github.com/FGMEMBERS-NONGPL/F-4EJ.git
