@@ -253,3 +253,6 @@
 [submodule "X-Wing"]
 	path = X-Wing
 	url = https://github.com/FGMEMBERS-NONGPL/X-Wing.git
+[submodule "delorean"]
+	path = delorean
+	url = https://github.com/FGMEMBERS-NONGPL/delorean.git
